@@ -13,7 +13,7 @@ This repository contains a simple yet powerful chatbot implementation using Face
 
 - `app.py`: Flask application that serves the web interface and handles API requests.
 - `LLM-chatbot.py`: Standalone script for running the chatbot in a command-line interface.
-- `templates/index.html`: HTML script for frontend made with using Bootstrap, Bootstrap components and Jinja.
+- `templates/index.html`: HTML script for frontend made using Bootstrap, Bootstrap components, and Jinja.
 
 ## Getting Started
 
@@ -23,9 +23,9 @@ This repository contains a simple yet powerful chatbot implementation using Face
 
 ## Note
 
-This project is a demonstration of integrating a large language model into a web application. It's suitable for learning purposes but may require additional features and optimizations for production use.
+This project demonstrates integrating a large language model into a web application. It's suitable for learning purposes but may require additional features and optimizations for production use.
 
-
+<img src="imgs/img.png" alt="Chatbot Demo" width="300"/>
 
 ---
 
