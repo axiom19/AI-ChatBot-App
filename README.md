@@ -25,7 +25,7 @@ This repository contains a simple yet powerful chatbot implementation using Face
 
 This project demonstrates integrating a large language model into a web application. It's suitable for learning purposes but may require additional features and optimizations for production use.
 
-<img src="imgs/img.png" alt="Chatbot Demo" width="300"/>
+<img src="imgs/img.png" alt="Chatbot Demo" width="500"/>
 
 ---
 
